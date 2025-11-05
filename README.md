@@ -2,32 +2,48 @@
 <h1 align="center">👋 Olá, eu sou o Eduardo Castelo Branco</h1>
 
 <p align="center">
-  <b>Gerente de Tecnologia | Especialista em Visão Computacional | Desenvolvedor de Soluções em IA</b>
+  <b>Gerente de Tecnologia | Especialista em Visão Computacional e Deep Learning | Criador de Soluções Inteligentes</b>
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou Gerente de Tecnologia na **Datavisiooh**, onde lidero projetos que integram **Visão Computacional** e **Inteligência Artificial** para transformar o mercado de publicidade OOH/DOOH.  
-Além da gestão técnica, atuo no **desenvolvimento de novos produtos**, explorando o potencial de **Deep Learning**, **Cloud Computing** e **arquiteturas escaláveis**.
+Sou **Gerente de Tecnologia na Datavisiooh**, onde lidero projetos que aplicam **Visão Computacional** e **Inteligência Artificial** para transformar a publicidade **OOH/DOOH**.  
+Atuo no **desenvolvimento de novos produtos**, com foco em **análise de vídeo, aprendizado profundo e automação em larga escala**.  
 
-Tenho 25 anos e sou movido por desafios que unem **tecnologia e impacto real**.
+Sou **graduado em Engenharia de Controle e Automação** e **pós-graduado em Engenharia de Software**, com sólida experiência em arquitetura de sistemas inteligentes e pipelines de IA.  
+
+Tenho **25 anos** e sou movido por desafios que unem **ciência de dados, engenharia de software e IA aplicada** para gerar impacto real em negócios.  
+Meu propósito é **aproximar a inteligência artificial das pessoas**, criando soluções eficientes, escaláveis e éticas.
+
+---
+
+### 🧩 Áreas de especialização
+
+- 👁️ **Visão Computacional:** detecção e rastreamento de objetos, reconhecimento facial, OCR e análise de fluxo de vídeo em tempo real.  
+- 🧬 **Deep Learning:** CNNs, transformadores visuais, embeddings e treinamento de modelos com grandes volumes de dados.  
+- ☁️ **Infraestrutura em Nuvem:** arquitetura escalável em **Azure**, **AWS**, **GCP** e **Magalu Cloud**.  
+- 🐧 **Sistemas Linux & Docker:** automação, conteinerização e deploy contínuo de pipelines de IA.
 
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b><br>Automação, IA, APIs</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br><b>Docker</b><br>Conteinerização</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br><b>TensorFlow</b><br>Modelos de IA</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br><b>PyTorch</b><br>Deep Learning</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br><b>Azure</b><br>Cloud Computing</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/><br><b>AWS</b><br>Infraestrutura</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br><b>GCP</b><br>Serviços em Nuvem</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br><b>Linux</b><br>Ambientes e DevOps</td>
+  </tr>
+</table>
 
 ---
 
@@ -42,5 +58,5 @@ Tenho 25 anos e sou movido por desafios que unem **tecnologia e impacto real**.
 ---
 
 <p align="center">
-  <i>"Construindo o futuro com visão e propósito."</i>  
+  <i>"A visão computacional é a ponte entre o mundo físico e a inteligência digital."</i>  
 </p>
