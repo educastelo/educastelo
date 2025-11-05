@@ -14,7 +14,7 @@ Atuo no **desenvolvimento de novos produtos**, com foco em **análise de vídeo,
 
 Sou **graduado em Engenharia de Controle e Automação** e **pós-graduado em Engenharia de Software**, com sólida experiência em arquitetura de sistemas inteligentes e pipelines de IA.  
 
-Tenho **25 anos** e sou movido por desafios que unem **ciência de dados, engenharia de software e IA aplicada** para gerar impacto real em negócios.  
+Tenho **25 anos** e sou movido por desafios que unem **engenharia de dados, automação, engenharia de software e IA aplicada** para gerar impacto real em negócios.  
 Meu propósito é **aproximar a inteligência artificial das pessoas**, criando soluções eficientes, escaláveis e éticas.
 
 ---
@@ -53,10 +53,4 @@ Meu propósito é **aproximar a inteligência artificial das pessoas**, criando 
   <a href="https://www.linkedin.com/in/eduardo-sales-castelo-branco/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Castelo%20Branco-blue?style=flat-square&logo=linkedin" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"A visão computacional é a ponte entre o mundo físico e a inteligência digital."</i>  
 </p>
