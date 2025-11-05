@@ -31,23 +31,6 @@ Tenho 25 anos e sou movido por desafios que unem **tecnologia e impacto real**.
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardobranco&show_icons=true&theme=github_dark&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardobranco&theme=github-dark-blue" height="180"/>
-</p>
-
----
-
-### 🌱 Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardobranco&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <p align="center">
