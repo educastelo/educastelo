@@ -14,13 +14,15 @@ I’m a Technology Manager at Datavisiooh, where I lead projects that apply Comp
 I hold a Bachelor’s degree in Control and Automation Engineering and a Postgraduate degree in Software Engineering, with solid experience in intelligent systems architecture and AI pipelines. I am currently pursuing an MBA in Data Science, Artificial Intelligence, and Analytics at USP (Universidade de São Paulo), further strengthening my expertise in advanced analytics, machine learning, and data-driven strategy.
 
 I’m 25 years old and passionate about challenges that connect data engineering, automation, software engineering, and applied AI to create real business impact. My purpose is to bring artificial intelligence closer to people, building efficient, scalable, and ethical solutions.
+
 ---
 
 ### 🧩 Areas of Expertise
 
-- 👁️ **Computer Vision:** object detection and tracking, facial recognition, OCR, and real-time video stream analysis.  
-- 🧬 **Deep Learning:** CNNs, visual transformers, embeddings, and large-scale model training.  
-- ☁️ **Cloud Infrastructure:** scalable architecture on **Azure**, **AWS**, **GCP**, and **Magalu Cloud**.  
+- 👁️ **Computer Vision:** object detection and tracking, facial recognition, OCR, and real-time video stream analysis.
+- 🤖 **AI Agents:** autonomous and semi-autonomous agents, LLM orchestration, tool integration, RAG pipelines, multi-agent architectures, and workflow automation.
+- 🧬 **Deep Learning:** CNNs, visual transformers, embeddings, and large-scale model training.
+- ☁️ **Cloud Infrastructure:** scalable architecture on **Azure**, **AWS**, **GCP**, and **Magalu Cloud**.
 - 🐧 **Linux & Docker Systems:** automation, containerization, and continuous deployment of AI pipelines.
 
 ---
