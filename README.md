@@ -9,14 +9,11 @@
 
 ### 🧠 About Me
 
-I’m a **Technology Manager at Datavisiooh**, where I lead projects that apply **Computer Vision** and **Artificial Intelligence** to transform the **OOH/DOOH advertising** industry.  
-I also work on **new product development**, focusing on **video analysis, deep learning, and large-scale automation**.  
+I’m a Technology Manager at Datavisiooh, where I lead projects that apply Computer Vision and Artificial Intelligence to transform the OOH/DOOH advertising industry. I also work on new product development, focusing on video analysis, deep learning, and large-scale automation.
 
-I hold a **Bachelor’s degree in Control and Automation Engineering** and a **Postgraduate degree in Software Engineering**, with solid experience in intelligent systems architecture and AI pipelines.  
+I hold a Bachelor’s degree in Control and Automation Engineering and a Postgraduate degree in Software Engineering, with solid experience in intelligent systems architecture and AI pipelines. I am currently pursuing an MBA in Data Science, Artificial Intelligence, and Analytics at USP (Universidade de São Paulo), further strengthening my expertise in advanced analytics, machine learning, and data-driven strategy.
 
-I’m **25 years old** and passionate about challenges that connect **data engineering, automation, software engineering, and applied AI** to create real business impact.  
-My purpose is to **bring artificial intelligence closer to people**, building efficient, scalable, and ethical solutions.
-
+I’m 25 years old and passionate about challenges that connect data engineering, automation, software engineering, and applied AI to create real business impact. My purpose is to bring artificial intelligence closer to people, building efficient, scalable, and ethical solutions.
 ---
 
 ### 🧩 Areas of Expertise
